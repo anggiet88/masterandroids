@@ -25,4 +25,5 @@ if(a_to_vk)
 {a_to_vk.innerHTML+=a_to_va;}}
 function a_to_fa()
 {var a_to_vf=new Array();protected_links=protected_links.replace(" ","");a_to_vf=protected_links.split(",");return a_to_vf;}
+protected_links = "blog.masterandroids.com,masterandroids.com,blogger.com,blogspot.com,twitter.com,youtube.com,facebook.com,en.miui.com,download.masterandroids.com";
 auto_safelink();
